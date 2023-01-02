@@ -1,1 +1,4 @@
-Personal website as a shell.
+
+
+
+gcloud builds submit --pack image=gcr.io/$PROJECT_ID/terminal

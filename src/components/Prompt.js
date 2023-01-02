@@ -87,7 +87,7 @@ function Prompt({user, dir, setUser, setDir, setClear, setRenderNext}){
     return (
         <>
         <PromptDiv>
-            <UserHostDiv>{user}@sif</UserHostDiv>
+            <UserHostDiv>{user}@coffee</UserHostDiv>
             <DirDiv>{dir}</DirDiv>
             <ShellPromptDiv>%</ShellPromptDiv>
             <CommandBox setCmd={setCmd} setTabCompletionOptions={setTabCompletionOptions}/>

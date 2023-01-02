@@ -68,17 +68,14 @@ function TitleBar() {
                 <CloseButton onClick={closeWindow}>X</CloseButton>
             </ButtonsDiv>
             <TitleDiv>
-                <a href='https://github.com/aavshr/aava.sh'>aava.sh</a>
+                <a href='#'>Coffee Time</a>
             </TitleDiv>
             <LinksDiv>
-                <a href="https://github.com/aavshr" target="_blank" rel="noreferrer">
+                <a href="https://github.com/sapientcoffee" target="_blank" rel="noreferrer">
                     <FontAwesomeIcon icon={faGithub}/>
                 </a>
-                <a href="https://twitter.com/aav_shr" target="_blank" rel="noreferrer">
+                <a href="https://twitter.com/sapientcoffee" target="_blank" rel="noreferrer">
                     <FontAwesomeIcon icon={faTwitter}/>
-                </a>
-                <a href="mailto:aavshr@gmail.com" target="_blank" rel="noreferrer">
-                    <FontAwesomeIcon icon={faEnvelope}/>
                 </a>
             </LinksDiv>
         </TitleBarDiv>

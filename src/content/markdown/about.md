@@ -1,8 +1,5 @@
-Hello 👋, I am Aavash. 
+Hello 👋, I am a demo site. 
 
-I am an engineer at <span style="color:#f478b3"> <a href="https://www.deta.sh" target="_blank">Deta</a></span>.
+This is a bit of fun
 
-Deta gifted me this domain which gave me this fun idea of writing a shell
-as my personal website.
-
-The source code is <span style="color:#fdf0d5"><a href="https://github.com/aavshr/aava.sh" target="_blank">available in Github</a></span> if anyone wants to fork and stuff.
+Inspired by <span style="color:#fdf0d5"><a href="https://github.com/aavshr/aava.sh" target="_blank">here</a></span>.
